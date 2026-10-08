@@ -1,0 +1,4 @@
+Candidate,Assessment_Group,Competency,Assessment_Method,Score,Weight,Issue,Severity
+Kandidat 3,grupa 2,Integritet,Test,3.0,0.0,Test nije primenljiv na Integritet; potvrđeni source unos je isključen iz analitičkog sloja.,Warning
+Kandidat 4,grupa 2,Integritet,Test,3.0,0.0,Test nije primenljiv na Integritet; potvrđeni source unos je isključen iz analitičkog sloja.,Warning
+Kandidat 2,grupa 2,Integritet,Test,3.0,0.0,Test nije primenljiv na Integritet; potvrđeni source unos je isključen iz analitičkog sloja.,Warning

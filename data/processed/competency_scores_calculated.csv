@@ -1,0 +1,41 @@
+Candidate,Assessment_Group,Competency,Weighted_Sum,Total_Weight,Competency_Score
+Kandidat 1,grupa 1,Integritet,9.0,2.5,3.6
+Kandidat 1,grupa 1,Liderska sposobnost i interesovanje,8.75,3.0,2.9166666666666665
+Kandidat 1,grupa 1,Razvoj i svest o sebi,8.25,2.0,4.125
+Kandidat 1,grupa 1,Rezilijentnost i odlučnost,13.25,4.0,3.3125
+Kandidat 1,grupa 1,Sveobuhvatna analitička sposobnost,11.0,3.0,3.6666666666666665
+Kandidat 2,grupa 2,Integritet,8.25,2.5,3.3
+Kandidat 2,grupa 2,Liderska sposobnost i interesovanje,5.0,2.0,2.5
+Kandidat 2,grupa 2,Razvoj i svest o sebi,6.75,2.0,3.375
+Kandidat 2,grupa 2,Rezilijentnost i odlučnost,8.75,3.0,2.9166666666666665
+Kandidat 2,grupa 2,Sveobuhvatna analitička sposobnost,8.0,3.0,2.6666666666666665
+Kandidat 3,grupa 2,Integritet,9.0,2.5,3.6
+Kandidat 3,grupa 2,Liderska sposobnost i interesovanje,5.25,2.0,2.625
+Kandidat 3,grupa 2,Razvoj i svest o sebi,4.75,2.0,2.375
+Kandidat 3,grupa 2,Rezilijentnost i odlučnost,10.25,3.0,3.4166666666666665
+Kandidat 3,grupa 2,Sveobuhvatna analitička sposobnost,9.0,3.0,3.0
+Kandidat 4,grupa 2,Integritet,7.75,2.5,3.1
+Kandidat 4,grupa 2,Liderska sposobnost i interesovanje,6.0,2.0,3.0
+Kandidat 4,grupa 2,Razvoj i svest o sebi,6.5,2.0,3.25
+Kandidat 4,grupa 2,Rezilijentnost i odlučnost,12.0,3.0,4.0
+Kandidat 4,grupa 2,Sveobuhvatna analitička sposobnost,10.0,3.0,3.3333333333333335
+Kandidat 5,grupa 1,Integritet,9.75,2.5,3.9
+Kandidat 5,grupa 1,Liderska sposobnost i interesovanje,9.5,3.0,3.1666666666666665
+Kandidat 5,grupa 1,Razvoj i svest o sebi,6.5,2.0,3.25
+Kandidat 5,grupa 1,Rezilijentnost i odlučnost,12.0,4.0,3.0
+Kandidat 5,grupa 1,Sveobuhvatna analitička sposobnost,8.0,3.0,2.6666666666666665
+Kandidat 6,grupa 1,Integritet,9.5,2.5,3.8
+Kandidat 6,grupa 1,Liderska sposobnost i interesovanje,9.5,3.0,3.1666666666666665
+Kandidat 6,grupa 1,Razvoj i svest o sebi,7.25,2.0,3.625
+Kandidat 6,grupa 1,Rezilijentnost i odlučnost,11.75,4.0,2.9375
+Kandidat 6,grupa 1,Sveobuhvatna analitička sposobnost,11.5,3.0,3.8333333333333335
+Kandidat 7,grupa 1,Integritet,8.5,2.5,3.4
+Kandidat 7,grupa 1,Liderska sposobnost i interesovanje,8.25,3.0,2.75
+Kandidat 7,grupa 1,Razvoj i svest o sebi,5.25,2.0,2.625
+Kandidat 7,grupa 1,Rezilijentnost i odlučnost,12.75,4.0,3.1875
+Kandidat 7,grupa 1,Sveobuhvatna analitička sposobnost,9.25,3.0,3.0833333333333335
+Kandidat 8,grupa 1,Integritet,8.0,2.5,3.2
+Kandidat 8,grupa 1,Liderska sposobnost i interesovanje,7.5,3.0,2.5
+Kandidat 8,grupa 1,Razvoj i svest o sebi,6.0,2.0,3.0
+Kandidat 8,grupa 1,Rezilijentnost i odlučnost,11.0,4.0,2.75
+Kandidat 8,grupa 1,Sveobuhvatna analitička sposobnost,9.25,3.0,3.0833333333333335
